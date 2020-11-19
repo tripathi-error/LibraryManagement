@@ -1,0 +1,14 @@
+C:\Users\Ankit\source\repos\LibraryManagement\LibraryManagementAPIServices\bin\Debug\netstandard2.0\LibraryManagementAPIServices.deps.json
+C:\Users\Ankit\source\repos\LibraryManagement\LibraryManagementAPIServices\bin\Debug\netstandard2.0\LibraryManagementAPIServices.dll
+C:\Users\Ankit\source\repos\LibraryManagement\LibraryManagementAPIServices\bin\Debug\netstandard2.0\LibraryManagementAPIServices.pdb
+C:\Users\Ankit\source\repos\LibraryManagement\LibraryManagementAPIServices\obj\Debug\netstandard2.0\LibraryManagementAPIServices.csprojAssemblyReference.cache
+C:\Users\Ankit\source\repos\LibraryManagement\LibraryManagementAPIServices\obj\Debug\netstandard2.0\LibraryManagementAPIServices.csproj.CoreCompileInputs.cache
+C:\Users\Ankit\source\repos\LibraryManagement\LibraryManagementAPIServices\obj\Debug\netstandard2.0\LibraryManagementAPIServices.AssemblyInfoInputs.cache
+C:\Users\Ankit\source\repos\LibraryManagement\LibraryManagementAPIServices\obj\Debug\netstandard2.0\LibraryManagementAPIServices.AssemblyInfo.cs
+C:\Users\Ankit\source\repos\LibraryManagement\LibraryManagementAPIServices\obj\Debug\netstandard2.0\LibraryManagementAPIServices.dll
+C:\Users\Ankit\source\repos\LibraryManagement\LibraryManagementAPIServices\obj\Debug\netstandard2.0\LibraryManagementAPIServices.pdb
+C:\Users\Ankit\source\repos\LibraryManagement\LibraryManagementAPIServices\bin\Debug\netstandard2.0\LibraryManagmentDataAccessLayer.dll
+C:\Users\Ankit\source\repos\LibraryManagement\LibraryManagementAPIServices\bin\Debug\netstandard2.0\LibraryManagmentDomainLayer.dll
+C:\Users\Ankit\source\repos\LibraryManagement\LibraryManagementAPIServices\bin\Debug\netstandard2.0\LibraryManagmentDataAccessLayer.pdb
+C:\Users\Ankit\source\repos\LibraryManagement\LibraryManagementAPIServices\bin\Debug\netstandard2.0\LibraryManagmentDomainLayer.pdb
+C:\Users\Ankit\source\repos\LibraryManagement\LibraryManagementAPIServices\obj\Debug\netstandard2.0\LibraryManagementAPIServices.csproj.CopyComplete

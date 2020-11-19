@@ -1,0 +1,9 @@
+C:\Users\Ankit\source\repos\LibraryManagement\LibraryManagmentDataAcessLayer\bin\Debug\netstandard2.1\LibraryManagmentDomainLayer.deps.json
+C:\Users\Ankit\source\repos\LibraryManagement\LibraryManagmentDataAcessLayer\bin\Debug\netstandard2.1\LibraryManagmentDomainLayer.dll
+C:\Users\Ankit\source\repos\LibraryManagement\LibraryManagmentDataAcessLayer\bin\Debug\netstandard2.1\LibraryManagmentDomainLayer.pdb
+C:\Users\Ankit\source\repos\LibraryManagement\LibraryManagmentDataAcessLayer\obj\Debug\netstandard2.1\LibraryManagmentDomainLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ankit\source\repos\LibraryManagement\LibraryManagmentDataAcessLayer\obj\Debug\netstandard2.1\LibraryManagmentDomainLayer.AssemblyInfoInputs.cache
+C:\Users\Ankit\source\repos\LibraryManagement\LibraryManagmentDataAcessLayer\obj\Debug\netstandard2.1\LibraryManagmentDomainLayer.AssemblyInfo.cs
+C:\Users\Ankit\source\repos\LibraryManagement\LibraryManagmentDataAcessLayer\obj\Debug\netstandard2.1\LibraryManagmentDomainLayer.dll
+C:\Users\Ankit\source\repos\LibraryManagement\LibraryManagmentDataAcessLayer\obj\Debug\netstandard2.1\LibraryManagmentDomainLayer.pdb
+C:\Users\Ankit\source\repos\LibraryManagement\LibraryManagmentDataAcessLayer\obj\Debug\netstandard2.1\LibraryManagmentDomainLayer.csprojAssemblyReference.cache

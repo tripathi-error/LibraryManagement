@@ -1,0 +1,12 @@
+C:\Users\Ankit\source\repos\LibraryManagement\LibraryManagmentDataAccessLayer\bin\Debug\netstandard2.0\LibraryManagmentDataAccessLayer.deps.json
+C:\Users\Ankit\source\repos\LibraryManagement\LibraryManagmentDataAccessLayer\bin\Debug\netstandard2.0\LibraryManagmentDataAccessLayer.dll
+C:\Users\Ankit\source\repos\LibraryManagement\LibraryManagmentDataAccessLayer\bin\Debug\netstandard2.0\LibraryManagmentDataAccessLayer.pdb
+C:\Users\Ankit\source\repos\LibraryManagement\LibraryManagmentDataAccessLayer\obj\Debug\netstandard2.0\LibraryManagmentDataAccessLayer.csprojAssemblyReference.cache
+C:\Users\Ankit\source\repos\LibraryManagement\LibraryManagmentDataAccessLayer\obj\Debug\netstandard2.0\LibraryManagmentDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ankit\source\repos\LibraryManagement\LibraryManagmentDataAccessLayer\obj\Debug\netstandard2.0\LibraryManagmentDataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Ankit\source\repos\LibraryManagement\LibraryManagmentDataAccessLayer\obj\Debug\netstandard2.0\LibraryManagmentDataAccessLayer.AssemblyInfo.cs
+C:\Users\Ankit\source\repos\LibraryManagement\LibraryManagmentDataAccessLayer\obj\Debug\netstandard2.0\LibraryManagmentDataAccessLayer.dll
+C:\Users\Ankit\source\repos\LibraryManagement\LibraryManagmentDataAccessLayer\obj\Debug\netstandard2.0\LibraryManagmentDataAccessLayer.pdb
+C:\Users\Ankit\source\repos\LibraryManagement\LibraryManagmentDataAccessLayer\bin\Debug\netstandard2.0\LibraryManagmentDomainLayer.dll
+C:\Users\Ankit\source\repos\LibraryManagement\LibraryManagmentDataAccessLayer\bin\Debug\netstandard2.0\LibraryManagmentDomainLayer.pdb
+C:\Users\Ankit\source\repos\LibraryManagement\LibraryManagmentDataAccessLayer\obj\Debug\netstandard2.0\LibraryManagmentDataAccessLayer.csproj.CopyComplete
